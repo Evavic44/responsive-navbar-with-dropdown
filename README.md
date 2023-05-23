@@ -1,1 +1,1 @@
-## Responsive Navigation Bar with Popup Menu
+## Responsive Navigation Bar with Dropdown Menu
