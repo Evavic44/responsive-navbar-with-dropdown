@@ -278,6 +278,10 @@ button {
     margin: 0;
   }
 
+  .menu-bar li:first-child .dropdown {
+    min-width: 100%;
+  }
+
   .menu-bar > li:not(:last-child) {
     padding-bottom: 0.5rem;
     border-bottom: var(--border);
